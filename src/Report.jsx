@@ -13,6 +13,7 @@ export default class report extends Component {
     zipcode: 33000,
     amphur_code: 0,
     amphur_name: "",
+    
     province_code: 0,
     province_name: "",
     district: [],
